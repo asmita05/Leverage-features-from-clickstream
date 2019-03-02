@@ -1,2 +1,3 @@
 # Leverage-features-from-clickstream
-techgig Geek Goddess 2018 ML challenge
+Techgig Geek Goddess 2018 ML challenge
+Secured overall rank 19/3349 in a series of 2 challenges
